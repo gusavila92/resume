@@ -3,7 +3,4 @@
 *.jpg binary
 *.html text
 *.js text
-*.yml text
 *.json text
-LICENSE text
-*.md text
